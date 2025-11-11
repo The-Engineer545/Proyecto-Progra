@@ -6,7 +6,7 @@ Juego de motos en consola con:
 - 2 cajas por spawn (una obligatoria en tu altura)
 - Ranking persistente en JSON
 - Menú con flechas
-- Arquitectura modular (13 archivos .h/.cpp)
+- Arquitectura modular (14 archivos .h/.cpp)
 
 ## Controles
 - W/S: subir/bajar
